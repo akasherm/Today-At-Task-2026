@@ -1,3 +1,27 @@
+Project: Today At Task
+ Version: 2.0
+    Date: 2nd October 2025
+  Author: Sherm
+   Notes: This is the updated version of Today At Task to meet the new requirements of Google.
+        : - Target Android 35
+        :
+        : This was supposed to be a proper upgrade to Today At Task.
+        : - Move from Hive to SQLite.
+        : - Theme / colour selection.        
+        : - Push notifications to users.        
+        : - Add multiple tasks on long press.
+        : - Responsive layout for use with tablets and desktop.
+        :
+        : Wishlist:
+        : - Send tasks from Desktop to phone / tablet as a json file.
+        : - Email tasks to phone.
+        : - Update some data on load instead of having to upload through Play Store.
+        : - Backup tasks and reload them.
+        :
+        : Coding Process Updates
+        : - Use dimension flavours to set up multiplpe environments using one code base.
+
+
 
 
 Planned New Features:
