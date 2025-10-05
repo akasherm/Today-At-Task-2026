@@ -1,0 +1,15 @@
+
+
+Planned New Features:
+- Push notifications.
+- Task backup to json file that can be reloaded. This feature must use a format that will
+  remain the same across versions so that data can be recovered if there's a breaking 
+  change again like switching databases.
+
+
+
+
+Questions:
+- Is the database even needed? Could a json file be used and stored locally on the device?
+- Could Firebase be used instead? - This would require Internet access.
+

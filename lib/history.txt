@@ -1,0 +1,26 @@
+Project Working Title: Today At Task 2026
+               Author: Sherm
+              Created: 05 October 2025
+
+This version is primarily to meet the new target requirements of Google. 
+To take advantage of the update, new features that were planned for version 2 will also be implemented.
+Additionally, the app will switch from using Hive for record keeping, to SQLlite.
+
+The original plan was to try to capture existing tasks and move them over. Instead, the app will just use SQLlite from
+the onset.
+
+
+MAJOR.MINOR.PATCH
+- MAJOR: Breaking changes
+- MINOR: Backwards-compatible features
+- PATCH: Backwards-compatible bug fixes
+
+| Version   | Release   | Date       | Type         | Description                            
+|-----------|-----------|------------|--------------|---------------------------------------------------------------------------------
+| 0.1.0     | 1         | 2025-10-05 | Initial      | Project begins.
+| 0.1.0     | 2         |            | Add          | History, and notes text files.
+
+
+
+
+
