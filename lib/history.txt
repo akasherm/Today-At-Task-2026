@@ -23,6 +23,7 @@ MAJOR.MINOR.PATCH
 | 0.1.0     | 3         |            | Update       | Cloned project to main PC and updated notes.text
 | 0.1.0     | 4         | 2025-10-09 | Update       | Added preserved commas to analysis_options.yaml
 | 0.1.0     | 5         |            | Edit         | Target Android 35 in android->app->build.gradle.kts
+| 0.1.0     | 6         | 2025-10-10 | Edit         | Stripped main.dart comments as a test for multi-device access.
 |
 
 
