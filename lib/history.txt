@@ -15,12 +15,14 @@ MAJOR.MINOR.PATCH
 - MINOR: Backwards-compatible features
 - PATCH: Backwards-compatible bug fixes
 
++===========+===========+============+==============+=================================================================================
 | Version   | Release   | Date       | Type         | Description                            
-|-----------|-----------|------------|--------------|---------------------------------------------------------------------------------
++-----------+-----------+------------+--------------+---------------------------------------------------------------------------------
 | 0.1.0     | 1         | 2025-10-05 | Initial      | Project begins.
 | 0.1.0     | 2         |            | Add          | History, and notes text files.
 | 0.1.0     | 3         |            | Update       | Cloned project to main PC and updated notes.text
-
+| 0.1.0     | 4         | 2025-10-09 | Update       | Added preserved commas to analysis_options.yaml
+|
 
 
 
