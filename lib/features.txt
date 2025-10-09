@@ -1,0 +1,14 @@
+
+
+Must Haves:
+    - Good colour scheme
+    - Light and dark mode with system setting override.
+    - Preferences area
+
+Wishlist:
+    - Add reorderable steps to tasks
+    - Expandable task panels to see what is involved.
+    - Export and import tasks as json file or similar.
+    
+Ideas:
+
