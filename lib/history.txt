@@ -11,20 +11,22 @@ the onset.
 
 
 MAJOR.MINOR.PATCH
-- MAJOR: Breaking changes
-- MINOR: Backwards-compatible features and changes
-- PATCH: Backwards-compatible bug fixes and corrections
+- MAJOR: Breaking features
+- MINOR: Backwards-compatible changes
+- PATCH: Backwards-compatible bug fixes, corrections, and code changes
+- COSMO: Non-breaking cosmetic changes, support file edits, revisions
 
 +===========+===========+============+==============+=================================================================================
-| Version   | Release   | Date       | Type         | Description                            
+| Version   | Git Rev   | Date       | Type         | Description                            
 +-----------+-----------+------------+--------------+---------------------------------------------------------------------------------
-| 0.1.0     | 1         | 2025-10-05 | Initial      | Project begins.
-| 0.1.0     | 2         |            | Add          | History, and notes text files.
-| 0.1.0     | 3         |            | Update       | Cloned project to main PC and updated notes.text
-| 0.1.0     | 4         | 2025-10-09 | Update       | Added preserved commas to analysis_options.yaml
-| 0.1.0     | 5         |            | Edit         | Target Android 35 in android->app->build.gradle.kts
-| 0.1.0     | 6         | 2025-10-10 | Edit         | Stripped main.dart comments as a test for multi-device access.
-| 0.1.0     | 7         |            | Add          | Added a feature tracker.|
+| 0.1.0.0   | 1         | 2025-10-05 | Initial      | Project begins.
+| 0.1.0.1   | 2         |            | Add          | History, and notes text files.
+| 0.1.0.2   | 3         |            | Update       | Cloned project to main PC and updated notes.text
+| 0.1.0.3   | 4         | 2025-10-09 | Update       | Added preserved commas to analysis_options.yaml
+| 0.1.0.4   | 5         |            | Edit         | Target Android 35 in android->app->build.gradle.kts
+| 0.1.0.5   | 6         | 2025-10-10 | Edit         | Stripped main.dart comments as a test for multi-device access.
+| 0.1.0.6   | 7         |            | Add          | Added a feature tracker.
+| 0.1.0.7   | 8         |            | Edit         | Update versioning.
 
 
 
